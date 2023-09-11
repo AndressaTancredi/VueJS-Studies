@@ -1,18 +1,11 @@
 # VueJS-Studies
-Studies and Basic Projects using VueJS
+
+Welcome to my Vue.js Basic Studies repository, where I explore basics aspects of Vue.js and build basic projects to strengthen my skills.
 
 ### QRCode Project
-It will generate a qrcode depending on the text input.
-
+The QRCode Project is a simple utility that generates a QR code based on the text input you provide. It's a practical example of how Vue.js can be used to create interactive and dynamic applications.
 
 <img src= "img/qrcode.png" width="500">
-
-
-### Sales Project
-Using a data from a json file, this system will generate two tables. The first one is a list of products, prices, amounts and dates of registration. The second one about the total amount from the first table.
-
-
-<img src= "img/sales.png" width="500">
 
 ### Project
 
